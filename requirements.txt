@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+datasets
+notebook
+ipykernel
