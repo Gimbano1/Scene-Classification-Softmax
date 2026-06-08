@@ -76,7 +76,3 @@ pip install -r requirements.txt
 ```text
 notebooks/softmax_image_classification.ipynb
 ```
-
-## Notes
-
-This project is designed as a clear educational implementation of softmax classification. For stronger image performance, a CNN or transfer learning model would be a natural next step.
